@@ -1,0 +1,202 @@
+Food-related .ai Domain Status Check - 2024-12-10 18:22:15
+--------------------------------------------------
+
+Checking 49 new domains
+Skipped 386 previously checked domains
+
+Domain: hoatzin.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: potoo.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tody.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: motmot.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bulbul.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bobolink.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: cowbird.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: grackle.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: cacique.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: ani.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: aracari.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: umbrellabird.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: cotinga.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: manakin.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: antbird.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: tapacul.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: xenops.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: scythebill.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: foliagebird.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: broadbill.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: pitohui.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: butcherbird.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: drongo.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: iora.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: babbler.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: parrotbill.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: yuhina.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: fulvetta.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: sibia.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: minla.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: barwing.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: laughingthrush.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: shama.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: forktail.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: cochoa.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: whistler.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: berrypecker.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: flowerpecker.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: sunbird.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: spiderhunter.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: leafbird.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: fairy.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: myzomela.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: honeyeater.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: bristlebird.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: grasswren.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: thornbill.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: gerygone.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: pardalote.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------

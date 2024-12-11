@@ -1,0 +1,166 @@
+Food-related .ai Domain Status Check - 2024-12-10 17:50:05
+--------------------------------------------------
+
+Checking 40 new domains
+Skipped 40 previously checked domains
+
+Domain: kale.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: fry.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: boil.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: roast.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: steam.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: blend.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: chop.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dice.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: mince.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: juice.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: peel.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: mix.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: knead.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pour.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: drain.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: serve.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: plate.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: taste.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pinch.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dash.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: drop.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dip.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: sip.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: chew.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: gulp.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: feed.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: feast.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: lunch.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: broth.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: stock.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: sauce.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: gravy.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: syrup.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: honey.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: sugar.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: basil.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dill.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: thyme.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: curry.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: chili.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------

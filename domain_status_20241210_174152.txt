@@ -1,0 +1,43 @@
+Food-related .ai Domain Status Check - 2024-12-10 17:41:52
+--------------------------------------------------
+
+Domain: eat.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: food.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: meal.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: chef.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: cook.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bite.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: yum.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: nom.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: soup.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dish.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------

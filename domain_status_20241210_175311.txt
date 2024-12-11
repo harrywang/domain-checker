@@ -1,0 +1,190 @@
+Food-related .ai Domain Status Check - 2024-12-10 17:53:11
+--------------------------------------------------
+
+Checking 46 new domains
+Skipped 132 previously checked domains
+
+Domain: cat.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dog.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bird.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: lion.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tiger.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bear.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: wolf.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: fox.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: deer.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: moose.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: elk.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: owl.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: hawk.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: eagle.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: crow.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: swan.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: goose.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: rat.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: mouse.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: frog.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: toad.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: snake.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bee.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: ant.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: wasp.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: moth.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: fly.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: seal.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: whale.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: shark.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: ape.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: pig.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: cow.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: sheep.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: horse.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pony.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: mule.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: zebra.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: camel.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: llama.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: otter.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bat.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: koala.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: panda.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: sloth.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: gecko.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------

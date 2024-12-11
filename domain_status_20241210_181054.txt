@@ -1,0 +1,154 @@
+Food-related .ai Domain Status Check - 2024-12-10 18:10:54
+--------------------------------------------------
+
+Checking 37 new domains
+Skipped 361 previously checked domains
+
+Domain: taipan.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: python.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: sala.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: caecil.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: mudpup.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: shrew.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tenrec.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: mink.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: stoat.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: marten.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: badger.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: ratel.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tayra.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: grison.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: zorilla.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: meerkat.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dhole.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: jackal.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: coyote.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: fennec.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: lycaon.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: dhol.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: racoon.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: kinkaju.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: olingo.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: ringtail.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: linsang.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: genet.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: binturong.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: gerbil.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: jerboa.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: zokor.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: viscacha.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: hutia.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: cony.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pika.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: degu.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------

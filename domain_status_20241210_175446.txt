@@ -1,0 +1,190 @@
+Food-related .ai Domain Status Check - 2024-12-10 17:54:46
+--------------------------------------------------
+
+Checking 46 new domains
+Skipped 178 previously checked domains
+
+Domain: newt.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: axol.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: krill.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: ray.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: shrimp.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: snail.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: slug.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: worm.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: mole.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: vole.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: hare.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: ram.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bull.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: colt.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: foal.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: joey.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pup.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: cub.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: kit.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: chick.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dove.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: jay.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: rook.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: lark.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: wren.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: finch.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: kite.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tern.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: gull.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: ibis.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: heron.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: stork.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: crane.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: rail.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: grebe.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: loon.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: myna.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: raven.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: robin.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pipit.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: swift.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: emu.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: rhea.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dodo.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: rail.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: boa.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------

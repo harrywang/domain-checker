@@ -1,0 +1,576 @@
+wok.ai               # Status: active, NOT AVAILABLE
+dim.ai               # Status: active, NOT AVAILABLE
+sushi.ai             # Status: parked, AVAILABLE
+ramen.ai             # Status: active, NOT AVAILABLE
+pho.ai               # Status: active, NOT AVAILABLE
+miso.ai              # Status: active, NOT AVAILABLE
+taco.ai              # Status: active, NOT AVAILABLE
+wine.ai              # Status: parked, AVAILABLE
+bbq.ai               # Status: active, NOT AVAILABLE
+pan.ai               # Status: active, NOT AVAILABLE
+oil.ai               # Status: parked, AVAILABLE
+egg.ai               # Status: active, NOT AVAILABLE
+stew.ai              # Status: active, NOT AVAILABLE
+bowl.ai              # Status: active, NOT AVAILABLE
+                     # 50 insect and invertebrate names - batch 11
+bun.ai               # Status: active, NOT AVAILABLE
+jam.ai               # Status: active, NOT AVAILABLE
+nut.ai               # Status: active, NOT AVAILABLE
+seed.ai              # Status: active, NOT AVAILABLE
+spud.ai              # Status: active, NOT AVAILABLE
+lime.ai              # Status: active, NOT AVAILABLE
+plum.ai              # Status: active, NOT AVAILABLE
+corn.ai              # Status: active, NOT AVAILABLE
+bean.ai              # Status: active, NOT AVAILABLE
+milk.ai              # Status: active, NOT AVAILABLE
+curd.ai              # Status: active, NOT AVAILABLE
+tofu.ai              # Status: active, NOT AVAILABLE
+whey.ai              # Status: active, NOT AVAILABLE
+sage.ai              # Status: active, NOT AVAILABLE
+thym.ai              # Status: inactive, AVAILABLE
+rice.ai              # Status: active, NOT AVAILABLE
+kale.ai              # Status: active, NOT AVAILABLE
+fry.ai               # Status: active, NOT AVAILABLE
+boil.ai              # Status: active, NOT AVAILABLE
+bake.ai              # Status: active, NOT AVAILABLE
+roast.ai             # Status: active, NOT AVAILABLE
+grill.ai             # Status: active, NOT AVAILABLE
+steam.ai             # Status: active, NOT AVAILABLE
+blend.ai             # Status: active, NOT AVAILABLE
+chop.ai              # Status: active, NOT AVAILABLE
+dice.ai              # Status: active, NOT AVAILABLE
+mince.ai             # Status: active, NOT AVAILABLE
+juice.ai             # Status: active, NOT AVAILABLE
+peel.ai              # Status: active, NOT AVAILABLE
+mix.ai               # Status: active, NOT AVAILABLE
+knead.ai             # Status: active, NOT AVAILABLE
+pour.ai              # Status: active, NOT AVAILABLE
+drain.ai             # Status: active, NOT AVAILABLE
+serve.ai             # Status: active, NOT AVAILABLE
+plate.ai             # Status: active, NOT AVAILABLE
+taste.ai             # Status: active, NOT AVAILABLE
+pinch.ai             # Status: active, NOT AVAILABLE
+dash.ai              # Status: active, NOT AVAILABLE
+drop.ai              # Status: active, NOT AVAILABLE
+dip.ai               # Status: active, NOT AVAILABLE
+bite.ai              # Status: active, NOT AVAILABLE
+sip.ai               # Status: active, NOT AVAILABLE
+chew.ai              # Status: active, NOT AVAILABLE
+gulp.ai              # Status: active, NOT AVAILABLE
+feed.ai              # Status: active, NOT AVAILABLE
+dine.ai              # Status: active, NOT AVAILABLE
+meal.ai              # Status: active, NOT AVAILABLE
+feast.ai             # Status: active, NOT AVAILABLE
+snack.ai             # Status: active, NOT AVAILABLE
+lunch.ai             # Status: parked, AVAILABLE
+broth.ai             # Status: active, NOT AVAILABLE
+stock.ai             # Status: parked, AVAILABLE
+sauce.ai             # Status: active, NOT AVAILABLE
+gravy.ai             # Status: active, NOT AVAILABLE
+syrup.ai             # Status: active, NOT AVAILABLE
+honey.ai             # Status: parked, AVAILABLE
+sugar.ai             # Status: active, NOT AVAILABLE
+spice.ai             # Status: active, NOT AVAILABLE
+herb.ai              # Status: active, NOT AVAILABLE
+salt.ai              # Status: active, NOT AVAILABLE
+basil.ai             # Status: active, NOT AVAILABLE
+mint.ai              # Status: active, NOT AVAILABLE
+dill.ai              # Status: active, NOT AVAILABLE
+thyme.ai             # Status: active, NOT AVAILABLE
+curry.ai             # Status: active, NOT AVAILABLE
+chili.ai             # Status: active, NOT AVAILABLE
+naan.ai              # Status: active, NOT AVAILABLE
+pita.ai              # Status: active, NOT AVAILABLE
+gyro.ai              # Status: active, NOT AVAILABLE
+feta.ai              # Status: active, NOT AVAILABLE
+udon.ai              # Status: active, NOT AVAILABLE
+maki.ai              # Status: active, NOT AVAILABLE
+roll.ai              # Status: active, NOT AVAILABLE
+wrap.ai              # Status: parked, AVAILABLE
+mayo.ai              # Status: active, NOT AVAILABLE
+yolk.ai              # Status: active, NOT AVAILABLE
+crab.ai              
+fish.ai              
+tuna.ai              
+cod.ai               
+bass.ai              
+pike.ai              
+koi.ai               
+eel.ai               
+clam.ai              
+mussel.ai            # Status: active, NOT AVAILABLE
+prawn.ai             
+squid.ai             
+duck.ai              
+goat.ai              
+lamb.ai              # Status: active, NOT AVAILABLE
+veal.ai              # Status: active, NOT AVAILABLE
+pork.ai              # Status: active, NOT AVAILABLE
+beef.ai              # Status: active, NOT AVAILABLE
+ham.ai               # Status: active, NOT AVAILABLE
+bacon.ai             # Status: active, NOT AVAILABLE
+dates.ai             # Status: active, NOT AVAILABLE
+fig.ai               # Status: active, NOT AVAILABLE
+pear.ai              # Status: active, NOT AVAILABLE
+grape.ai             # Status: parked, AVAILABLE
+mango.ai             # Status: active, NOT AVAILABLE
+peach.ai             # Status: active, NOT AVAILABLE
+kiwi.ai              
+melon.ai             # Status: active, NOT AVAILABLE
+apple.ai             # Status: active, NOT AVAILABLE
+berry.ai             # Status: parked, AVAILABLE
+peas.ai              # Status: active, NOT AVAILABLE
+leek.ai              # Status: active, NOT AVAILABLE
+onion.ai             # Status: active, NOT AVAILABLE
+root.ai              # Status: active, NOT AVAILABLE
+leaf.ai              
+stem.ai              # Status: active, NOT AVAILABLE
+pod.ai               # Status: active, NOT AVAILABLE
+yam.ai               # Status: active, NOT AVAILABLE
+cat.ai               # Status: active, NOT AVAILABLE
+dog.ai               # Status: active, NOT AVAILABLE
+bird.ai              # Status: active, NOT AVAILABLE
+lion.ai              # Status: active, NOT AVAILABLE
+tiger.ai             
+bear.ai              # Status: active, NOT AVAILABLE
+wolf.ai              
+fox.ai               # Status: active, NOT AVAILABLE
+deer.ai              # Status: active, NOT AVAILABLE
+moose.ai             # Status: active, NOT AVAILABLE
+elk.ai               # Status: active, NOT AVAILABLE
+owl.ai               # Status: active, NOT AVAILABLE
+hawk.ai              
+eagle.ai             # Status: active, NOT AVAILABLE
+crow.ai              # Status: active, NOT AVAILABLE
+swan.ai              # Status: active, NOT AVAILABLE
+goose.ai             # Status: active, NOT AVAILABLE
+rat.ai               # Status: active, NOT AVAILABLE
+mouse.ai             
+frog.ai              
+toad.ai              
+snake.ai             # Status: active, NOT AVAILABLE
+bee.ai               
+ant.ai               
+wasp.ai              
+moth.ai              
+fly.ai               
+seal.ai              
+whale.ai             
+shark.ai             
+ape.ai               # Status: parked, AVAILABLE
+pig.ai               # Status: active, NOT AVAILABLE
+cow.ai               # Status: active, NOT AVAILABLE
+sheep.ai             # Status: active, NOT AVAILABLE
+horse.ai             # Status: active, NOT AVAILABLE
+pony.ai              # Status: active, NOT AVAILABLE
+mule.ai              # Status: active, NOT AVAILABLE
+zebra.ai             # Status: active, NOT AVAILABLE
+camel.ai             # Status: active, NOT AVAILABLE
+llama.ai             # Status: active, NOT AVAILABLE
+otter.ai             
+bat.ai               # Status: active, NOT AVAILABLE
+koala.ai             # Status: active, NOT AVAILABLE
+panda.ai             # Status: active, NOT AVAILABLE
+sloth.ai             # Status: active, NOT AVAILABLE
+gecko.ai             
+newt.ai              
+axol.ai              
+krill.ai             # Status: active, NOT AVAILABLE
+ray.ai               # Status: active, NOT AVAILABLE
+shrimp.ai            # Status: active, NOT AVAILABLE
+snail.ai             # Status: active, NOT AVAILABLE
+slug.ai              # Status: active, NOT AVAILABLE
+worm.ai              # Status: active, NOT AVAILABLE
+mole.ai              
+vole.ai              
+hare.ai              # Status: active, NOT AVAILABLE
+ram.ai               # Status: active, NOT AVAILABLE
+bull.ai              # Status: active, NOT AVAILABLE
+colt.ai              # Status: active, NOT AVAILABLE
+foal.ai              # Status: parked, AVAILABLE
+joey.ai              # Status: active, NOT AVAILABLE
+pup.ai               # Status: active, NOT AVAILABLE
+cub.ai               # Status: active, NOT AVAILABLE
+kit.ai               # Status: active, NOT AVAILABLE
+chick.ai             # Status: active, NOT AVAILABLE
+dove.ai              # Status: active, NOT AVAILABLE
+jay.ai               # Status: active, NOT AVAILABLE
+rook.ai              # Status: active, NOT AVAILABLE
+lark.ai              # Status: active, NOT AVAILABLE
+wren.ai              # Status: active, NOT AVAILABLE
+finch.ai             # Status: active, NOT AVAILABLE
+kite.ai              # Status: active, NOT AVAILABLE
+tern.ai              # Status: active, NOT AVAILABLE
+gull.ai              # Status: active, NOT AVAILABLE
+ibis.ai              # Status: active, NOT AVAILABLE
+heron.ai             # Status: active, NOT AVAILABLE
+stork.ai             # Status: active, NOT AVAILABLE
+crane.ai             # Status: active, NOT AVAILABLE
+rail.ai              
+grebe.ai             # Status: inactive, AVAILABLE
+loon.ai              # Status: active, NOT AVAILABLE
+myna.ai              
+raven.ai             # Status: active, NOT AVAILABLE
+robin.ai             # Status: active, NOT AVAILABLE
+pipit.ai             
+swift.ai             # Status: active, NOT AVAILABLE
+emu.ai               # Status: active, NOT AVAILABLE
+rhea.ai              # Status: active, NOT AVAILABLE
+dodo.ai              # Status: active, NOT AVAILABLE
+boa.ai               
+tick.ai              # Status: active, NOT AVAILABLE
+flea.ai              # Status: active, NOT AVAILABLE
+mite.ai              # Status: active, NOT AVAILABLE
+roach.ai             # Status: active, NOT AVAILABLE
+bug.ai               # Status: active, NOT AVAILABLE
+asp.ai               # Status: active, NOT AVAILABLE
+carp.ai              # Status: active, NOT AVAILABLE
+sole.ai              # Status: active, NOT AVAILABLE
+bream.ai             # Status: active, NOT AVAILABLE
+perch.ai             # Status: active, NOT AVAILABLE
+skate.ai             # Status: parked, AVAILABLE
+orca.ai              
+trout.ai             # Status: active, NOT AVAILABLE
+bison.ai             # Status: active, NOT AVAILABLE
+yak.ai               # Status: active, NOT AVAILABLE
+ox.ai                # Status: parked, AVAILABLE
+gnu.ai               # Status: active, NOT AVAILABLE
+kudu.ai              
+nyala.ai             
+impala.ai            # Status: active, NOT AVAILABLE
+dik.ai               # Status: parked, AVAILABLE
+duiker.ai            
+oryx.ai              # Status: active, NOT AVAILABLE
+addax.ai             # Status: active, NOT AVAILABLE
+sable.ai             
+roan.ai              # Status: active, NOT AVAILABLE
+eland.ai             # Status: parked, AVAILABLE
+gaur.ai              
+zebu.ai              # Status: active, NOT AVAILABLE
+cavy.ai              # Status: active, NOT AVAILABLE
+coati.ai             
+paca.ai              # Status: active, NOT AVAILABLE
+agouti.ai            
+quoll.ai             
+dingo.ai             # Status: active, NOT AVAILABLE
+okapi.ai             # Status: active, NOT AVAILABLE
+tapir.ai             # Status: active, NOT AVAILABLE
+civet.ai             
+fossa.ai             
+loris.ai             
+galago.ai            
+saki.ai              
+titi.ai              
+sifaka.ai            
+indri.ai             
+aye.ai               
+lemur.ai             # Status: active, NOT AVAILABLE
+potto.ai             
+colugo.ai            # Status: active, NOT AVAILABLE
+numbat.ai            
+quokka.ai            
+bilby.ai             # Status: active, NOT AVAILABLE
+bongo.ai             # Status: active, NOT AVAILABLE
+kusu.ai              # Status: inactive, AVAILABLE
+cuscus.ai            # Status: inactive, AVAILABLE
+dugong.ai            
+manat.ai             # Status: active, NOT AVAILABLE
+narwhl.ai            # Status: inactive, AVAILABLE
+beluga.ai            
+minke.ai             
+gar.ai               # Status: active, NOT AVAILABLE
+tetra.ai             # Status: active, NOT AVAILABLE
+danio.ai             # Status: active, NOT AVAILABLE
+guppy.ai             # Status: active, NOT AVAILABLE
+molly.ai             # Status: active, NOT AVAILABLE
+betta.ai             # Status: active, NOT AVAILABLE
+loach.ai             # Status: inactive, AVAILABLE
+dace.ai              # Status: active, NOT AVAILABLE
+char.ai              # Status: active, NOT AVAILABLE
+ide.ai               # Status: active, NOT AVAILABLE
+rudd.ai              # Status: active, NOT AVAILABLE
+tench.ai             # Status: inactive, AVAILABLE
+smelt.ai             # Status: active, NOT AVAILABLE
+cisco.ai             # Status: active, NOT AVAILABLE
+mullet.ai            # Status: active, NOT AVAILABLE
+bonito.ai            # Status: active, NOT AVAILABLE
+wahoo.ai             # Status: active, NOT AVAILABLE
+opah.ai              # Status: inactive, AVAILABLE
+cobia.ai             # Status: active, NOT AVAILABLE
+mako.ai              # Status: active, NOT AVAILABLE
+cuda.ai              # Status: active, NOT AVAILABLE
+marlin.ai            # Status: active, NOT AVAILABLE
+tarpon.ai            # Status: active, NOT AVAILABLE
+viper.ai             # Status: parked, AVAILABLE
+cobra.ai             
+mamba.ai             # Status: active, NOT AVAILABLE
+krait.ai             
+adder.ai             # Status: parked, AVAILABLE
+caiman.ai            # Status: active, NOT AVAILABLE
+skink.ai             # Status: active, NOT AVAILABLE
+agama.ai             
+iguana.ai            # Status: active, NOT AVAILABLE
+tegu.ai              # Status: active, NOT AVAILABLE
+olm.ai               # Status: active, NOT AVAILABLE
+siren.ai             
+drill.ai             # Status: active, NOT AVAILABLE
+coua.ai              # Status: inactive, AVAILABLE
+pitta.ai             
+macaw.ai             # Status: active, NOT AVAILABLE
+toucan.ai            # Status: parked, AVAILABLE
+quail.ai             # Status: parked, AVAILABLE
+grouse.ai            # Status: parked, AVAILABLE
+snipe.ai             # Status: active, NOT AVAILABLE
+plover.ai            # Status: active, NOT AVAILABLE
+dunlin.ai            # Status: active, NOT AVAILABLE
+godwit.ai            # Status: active, NOT AVAILABLE
+curlew.ai            # Status: active, NOT AVAILABLE
+pewee.ai             # Status: inactive, AVAILABLE
+veery.ai             # Status: active, NOT AVAILABLE
+vireo.ai             # Status: active, NOT AVAILABLE
+tanager.ai           # Status: active, NOT AVAILABLE
+oriole.ai            # Status: active, NOT AVAILABLE
+weaver.ai            # Status: active, NOT AVAILABLE
+munias.ai            # Status: inactive, AVAILABLE
+siskin.ai            # Status: inactive, AVAILABLE
+linnet.ai            # Status: active, NOT AVAILABLE
+twite.ai             # Status: active, NOT AVAILABLE
+serin.ai             # Status: active, NOT AVAILABLE
+rosella.ai           # Status: active, NOT AVAILABLE
+tarsir.ai            # Status: inactive, AVAILABLE
+gibbon.ai            
+langur.ai            
+siamang.ai           
+tamarin.ai           
+uakari.ai            
+mangabe.ai           # Status: inactive, AVAILABLE
+grivet.ai            # Status: inactive, AVAILABLE
+patas.ai             # Status: active, NOT AVAILABLE
+vervet.ai            # Status: active, NOT AVAILABLE
+taipan.ai            # Status: active, NOT AVAILABLE
+python.ai            # Status: active, NOT AVAILABLE
+sala.ai              # Status: active, NOT AVAILABLE
+caecil.ai            # Status: inactive, AVAILABLE
+mudpup.ai            # Status: inactive, AVAILABLE
+shrew.ai             # Status: active, NOT AVAILABLE
+tenrec.ai            # Status: inactive, AVAILABLE
+mink.ai              # Status: active, NOT AVAILABLE
+stoat.ai             # Status: active, NOT AVAILABLE
+marten.ai            
+badger.ai            
+ratel.ai             # Status: active, NOT AVAILABLE
+tayra.ai             # Status: active, NOT AVAILABLE
+grison.ai            # Status: inactive, AVAILABLE
+zorilla.ai           # Status: inactive, AVAILABLE
+meerkat.ai           # Status: active, NOT AVAILABLE
+dhole.ai             # Status: inactive, AVAILABLE
+jackal.ai            # Status: active, NOT AVAILABLE
+coyote.ai            # Status: active, NOT AVAILABLE
+fennec.ai            # Status: active, NOT AVAILABLE
+lycaon.ai            # Status: inactive, AVAILABLE
+dhol.ai              
+racoon.ai            # Status: active, NOT AVAILABLE
+kinkaju.ai           # Status: inactive, AVAILABLE
+olingo.ai            # Status: active, NOT AVAILABLE
+ringtail.ai          # Status: active, NOT AVAILABLE
+linsang.ai           
+genet.ai             # Status: active, NOT AVAILABLE
+binturong.ai         
+gerbil.ai            # Status: active, NOT AVAILABLE
+jerboa.ai            # Status: active, NOT AVAILABLE
+zokor.ai             # Status: active, NOT AVAILABLE
+viscacha.ai          # Status: inactive, AVAILABLE
+hutia.ai             # Status: inactive, AVAILABLE
+cony.ai              # Status: active, NOT AVAILABLE
+pika.ai              # Status: active, NOT AVAILABLE
+degu.ai              # Status: active, NOT AVAILABLE
+hoatzin.ai           # Status: active, NOT AVAILABLE
+potoo.ai             # Status: active, NOT AVAILABLE
+tody.ai              # Status: active, NOT AVAILABLE
+motmot.ai            # Status: active, NOT AVAILABLE
+bulbul.ai            # Status: active, NOT AVAILABLE
+bobolink.ai          # Status: active, NOT AVAILABLE
+cowbird.ai           # Status: inactive, AVAILABLE
+grackle.ai           # Status: active, NOT AVAILABLE
+cacique.ai           # Status: inactive, AVAILABLE
+ani.ai               # Status: active, NOT AVAILABLE
+aracari.ai           # Status: active, NOT AVAILABLE
+umbrellabird.ai      # Status: inactive, AVAILABLE
+cotinga.ai           # Status: inactive, AVAILABLE
+manakin.ai           # Status: inactive, AVAILABLE
+antbird.ai           # Status: inactive, AVAILABLE
+tapacul.ai           # Status: inactive, AVAILABLE
+xenops.ai            # Status: active, NOT AVAILABLE
+scythebill.ai        # Status: inactive, AVAILABLE
+foliagebird.ai       # Status: inactive, AVAILABLE
+broadbill.ai         # Status: inactive, AVAILABLE
+pitohui.ai           # Status: inactive, AVAILABLE
+butcherbird.ai       # Status: inactive, AVAILABLE
+drongo.ai            # Status: parked, AVAILABLE
+iora.ai              # Status: active, NOT AVAILABLE
+babbler.ai           # Status: active, NOT AVAILABLE
+parrotbill.ai        
+yuhina.ai            
+fulvetta.ai          
+sibia.ai             
+minla.ai             
+barwing.ai           
+laughingthrush.ai    # Status: inactive, AVAILABLE
+shama.ai             
+forktail.ai          
+cochoa.ai            # Status: inactive, AVAILABLE
+whistler.ai          # Status: active, NOT AVAILABLE
+berrypecker.ai       # Status: inactive, AVAILABLE
+flowerpecker.ai      # Status: inactive, AVAILABLE
+sunbird.ai           # Status: active, NOT AVAILABLE
+spiderhunter.ai      # Status: inactive, AVAILABLE
+leafbird.ai          # Status: inactive, AVAILABLE
+fairy.ai             # Status: active, NOT AVAILABLE
+myzomela.ai          # Status: inactive, AVAILABLE
+honeyeater.ai        # Status: inactive, AVAILABLE
+bristlebird.ai       # Status: inactive, AVAILABLE
+grasswren.ai         # Status: inactive, AVAILABLE
+thornbill.ai         # Status: inactive, AVAILABLE
+gerygone.ai          # Status: inactive, AVAILABLE
+pardalote.ai         # Status: inactive, AVAILABLE
+topi.ai              # Status: active, NOT AVAILABLE
+dikdik.ai            # Status: inactive, AVAILABLE
+oribi.ai             # Status: active, NOT AVAILABLE
+gerenuk.ai           # Status: active, NOT AVAILABLE
+klip.ai              # Status: parked, AVAILABLE
+hyrax.ai             # Status: active, NOT AVAILABLE
+daman.ai             # Status: active, NOT AVAILABLE
+muriqui.ai           # Status: inactive, AVAILABLE
+howler.ai            # Status: active, NOT AVAILABLE
+tarsier.ai           # Status: active, NOT AVAILABLE
+pangolin.ai          
+echidna.ai           # Status: active, NOT AVAILABLE
+manatee.ai           # Status: active, NOT AVAILABLE
+narwhal.ai           # Status: active, NOT AVAILABLE
+pilot.ai             # Status: active, NOT AVAILABLE
+beaked.ai            # Status: inactive, AVAILABLE
+vaquita.ai           # Status: active, NOT AVAILABLE
+tucuxi.ai            # Status: active, NOT AVAILABLE
+boto.ai              # Status: active, NOT AVAILABLE
+baiji.ai             # Status: active, NOT AVAILABLE
+finless.ai           # Status: active, NOT AVAILABLE
+irrawaddy.ai         # Status: inactive, AVAILABLE
+spinner.ai           # Status: parked, AVAILABLE
+fraser.ai            # Status: active, NOT AVAILABLE
+risso.ai             # Status: active, NOT AVAILABLE
+kogia.ai             # Status: inactive, AVAILABLE
+dall.ai              # Status: active, NOT AVAILABLE
+sei.ai               # Status: active, NOT AVAILABLE
+brydes.ai            # Status: inactive, AVAILABLE
+nilgai.ai            
+takin.ai             
+serow.ai             
+goral.ai             
+markhor.ai           # Status: active, NOT AVAILABLE
+argali.ai            # Status: inactive, AVAILABLE
+urial.ai             # Status: inactive, AVAILABLE
+bharal.ai            # Status: inactive, AVAILABLE
+chiru.ai             # Status: active, NOT AVAILABLE
+tahra.ai             # Status: inactive, AVAILABLE
+nilgir.ai            # Status: inactive, AVAILABLE
+hangul.ai            # Status: active, NOT AVAILABLE
+sambar.ai            # Status: active, NOT AVAILABLE
+chital.ai            # Status: inactive, AVAILABLE
+barah.ai             # Status: inactive, AVAILABLE
+kiang.ai             # Status: inactive, AVAILABLE
+banteng.ai           # Status: inactive, AVAILABLE
+anoa.ai              # Status: inactive, AVAILABLE
+pikas.ai             # Status: inactive, AVAILABLE
+tupaia.ai            # Status: active, NOT AVAILABLE
+macaque.ai           # Status: active, NOT AVAILABLE
+douc.ai              # Status: inactive, AVAILABLE
+lutung.ai            # Status: inactive, AVAILABLE
+snub.ai              # Status: active, NOT AVAILABLE
+proboscis.ai         # Status: inactive, AVAILABLE
+cuon.ai              # Status: inactive, AVAILABLE
+sun.ai               # Status: active, NOT AVAILABLE
+clouded.ai           
+fishing.ai           # Status: active, NOT AVAILABLE
+masked.ai            # Status: active, NOT AVAILABLE
+weasel.ai            # Status: parked, AVAILABLE
+amur.ai              # Status: active, NOT AVAILABLE
+manul.ai             # Status: inactive, AVAILABLE
+rusty.ai             # Status: active, NOT AVAILABLE
+munia.ai             # Status: inactive, AVAILABLE
+minivet.ai           # Status: active, NOT AVAILABLE
+liocichla.ai         # Status: inactive, AVAILABLE
+mesia.ai             # Status: inactive, AVAILABLE
+tragopan.ai          # Status: inactive, AVAILABLE
+koklass.ai           # Status: inactive, AVAILABLE
+junglefowl.ai        # Status: inactive, AVAILABLE
+frogmouth.ai         # Status: active, NOT AVAILABLE
+malkoha.ai           # Status: inactive, AVAILABLE
+trogon.ai            # Status: active, NOT AVAILABLE
+laughing.ai          # Status: active, NOT AVAILABLE
+cutia.ai             # Status: inactive, AVAILABLE
+sibias.ai            # Status: inactive, AVAILABLE
+shortwing.ai         # Status: inactive, AVAILABLE
+bushchat.ai          # Status: inactive, AVAILABLE
+prinia.ai            # Status: inactive, AVAILABLE
+cisticola.ai         # Status: inactive, AVAILABLE
+tailorbird.ai        # Status: active, NOT AVAILABLE
+warbler.ai           # Status: active, NOT AVAILABLE
+flycatcher.ai        # Status: active, NOT AVAILABLE
+niltava.ai           # Status: inactive, AVAILABLE
+tesia.ai             # Status: inactive, AVAILABLE
+rubythroat.ai        # Status: inactive, AVAILABLE
+accentor.ai          # Status: inactive, AVAILABLE
+rosefinch.ai         # Status: active, NOT AVAILABLE
+bunting.ai           # Status: inactive, AVAILABLE
+dhongkri.ai          # Status: inactive, AVAILABLE
+chinkara.ai          # Status: inactive, AVAILABLE
+hog.ai               # Status: active, NOT AVAILABLE
+chevrotain.ai        # Status: inactive, AVAILABLE
+mongoose.ai          # Status: active, NOT AVAILABLE
+ferret.ai            # Status: active, NOT AVAILABLE
+tokay.ai             # Status: active, NOT AVAILABLE
+mantis.ai            # Status: active, NOT AVAILABLE
+weevil.ai            # Status: active, NOT AVAILABLE
+beetle.ai            # Status: active, NOT AVAILABLE
+cicada.ai            # Status: active, NOT AVAILABLE
+cricket.ai           # Status: active, NOT AVAILABLE
+katydid.ai           # Status: inactive, AVAILABLE
+locust.ai            # Status: active, NOT AVAILABLE
+midge.ai             # Status: active, NOT AVAILABLE
+mayfly.ai            # Status: active, NOT AVAILABLE
+damsel.ai            # Status: active, NOT AVAILABLE
+firefly.ai           # Status: active, NOT AVAILABLE
+glow.ai              # Status: active, NOT AVAILABLE
+jewel.ai             # Status: active, NOT AVAILABLE
+scarab.ai            # Status: active, NOT AVAILABLE
+hercules.ai          # Status: active, NOT AVAILABLE
+atlas.ai             # Status: active, NOT AVAILABLE
+stag.ai              # Status: active, NOT AVAILABLE
+rhino.ai             # Status: active, NOT AVAILABLE
+dor.ai               # Status: active, NOT AVAILABLE
+chafer.ai            # Status: inactive, AVAILABLE
+click.ai             # Status: active, NOT AVAILABLE
+ground.ai            # Status: active, NOT AVAILABLE
+rove.ai              # Status: active, NOT AVAILABLE
+diving.ai            # Status: active, NOT AVAILABLE
+water.ai             # Status: active, NOT AVAILABLE
+whirl.ai             # Status: active, NOT AVAILABLE
+skipper.ai           # Status: active, NOT AVAILABLE
+blue.ai              # Status: active, NOT AVAILABLE
+copper.ai            # Status: active, NOT AVAILABLE
+hair.ai              # Status: active, NOT AVAILABLE
+admiral.ai           # Status: active, NOT AVAILABLE
+purple.ai            # Status: active, NOT AVAILABLE
+comma.ai             # Status: active, NOT AVAILABLE
+map.ai               # Status: active, NOT AVAILABLE
+painted.ai           # Status: active, NOT AVAILABLE
+fritillary.ai        # Status: inactive, AVAILABLE
+pearl.ai             # Status: active, NOT AVAILABLE
+checker.ai           # Status: active, NOT AVAILABLE
+white.ai             # Status: active, NOT AVAILABLE
+orange.ai            # Status: active, NOT AVAILABLE
+marble.ai            # Status: active, NOT AVAILABLE
+wood.ai              # Status: active, NOT AVAILABLE
+grizzled.ai          # Status: inactive, AVAILABLE
+silver.ai            # Status: active, NOT AVAILABLE
+sphinx.ai            # Status: active, NOT AVAILABLE

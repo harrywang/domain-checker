@@ -1,0 +1,86 @@
+Food-related .ai Domain Status Check - 2024-12-10 17:44:17
+--------------------------------------------------
+
+Checking 20 new domains
+Skipped 0 previously checked domains
+
+Domain: pie.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: cake.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: rice.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: soy.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: spice.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: salt.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: fish.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: meat.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tea.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bake.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: grill.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: toast.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: roll.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dine.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: menu.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: snack.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: brew.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: mint.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: herb.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: fare.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------

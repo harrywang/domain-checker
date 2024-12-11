@@ -1,0 +1,206 @@
+Food-related .ai Domain Status Check - 2024-12-10 17:58:21
+--------------------------------------------------
+
+Checking 50 new domains
+Skipped 252 previously checked domains
+
+Domain: quoll.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dingo.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: okapi.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tapir.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: civet.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: fossa.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: loris.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: galago.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: saki.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: titi.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: sifaka.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: indri.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: aye.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: lemur.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: potto.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: colugo.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: numbat.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: quokka.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bilby.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bongo.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: kusu.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: cuscus.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: dugong.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: manat.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: narwhl.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: beluga.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: minke.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: gar.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tetra.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: danio.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: guppy.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: molly.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: betta.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: loach.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: dace.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: char.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: ide.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: rudd.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tench.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: smelt.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: cisco.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: mullet.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bonito.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: wahoo.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: opah.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: cobia.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: mako.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: cuda.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: marlin.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tarpon.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------

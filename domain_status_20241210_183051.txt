@@ -1,0 +1,122 @@
+Food-related .ai Domain Status Check - 2024-12-10 18:30:51
+--------------------------------------------------
+
+Checking 29 new domains
+Skipped 455 previously checked domains
+
+Domain: topi.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dikdik.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: oribi.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: gerenuk.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: klip.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: hyrax.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: daman.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: muriqui.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: howler.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tarsier.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pangolin.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: echidna.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: manatee.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: narwhal.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pilot.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: beaked.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: vaquita.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tucuxi.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: boto.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: baiji.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: finless.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: irrawaddy.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: spinner.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: fraser.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: risso.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: kogia.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: dall.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: sei.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: brydes.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------

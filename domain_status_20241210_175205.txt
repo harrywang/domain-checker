@@ -1,0 +1,190 @@
+Food-related .ai Domain Status Check - 2024-12-10 17:52:05
+--------------------------------------------------
+
+Checking 46 new domains
+Skipped 84 previously checked domains
+
+Domain: naan.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pita.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: gyro.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: feta.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: udon.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: maki.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: wrap.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: mayo.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: yolk.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: crab.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tuna.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: cod.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bass.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pike.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: koi.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: eel.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: clam.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: mussel.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: prawn.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: squid.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: duck.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: goat.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: lamb.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: veal.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pork.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: beef.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: ham.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bacon.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dates.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: fig.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pear.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: grape.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: mango.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: peach.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: kiwi.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: melon.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: apple.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: berry.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: peas.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: leek.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: onion.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: root.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: leaf.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: stem.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pod.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: yam.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------

@@ -1,0 +1,190 @@
+Food-related .ai Domain Status Check - 2024-12-10 18:04:57
+--------------------------------------------------
+
+Checking 46 new domains
+Skipped 306 previously checked domains
+
+Domain: viper.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: cobra.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: mamba.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: krait.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: adder.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: caiman.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: skink.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: agama.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: iguana.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tegu.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: olm.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: siren.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: drill.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: coua.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: pitta.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: macaw.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: toucan.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: quail.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: grouse.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: snipe.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: plover.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: dunlin.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: godwit.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: curlew.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pewee.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: veery.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: vireo.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tanager.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: oriole.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: weaver.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: munias.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: siskin.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: linnet.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: twite.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: serin.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: rosella.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: tarsir.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: gibbon.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: langur.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: siamang.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: tamarin.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: uakari.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: mangabe.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: grivet.ai
+Status: inactive
+Availability: AVAILABLE
+------------------------------
+Domain: patas.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: vervet.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------

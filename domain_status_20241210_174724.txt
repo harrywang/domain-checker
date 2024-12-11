@@ -1,0 +1,42 @@
+Food-related .ai Domain Status Check - 2024-12-10 17:47:24
+--------------------------------------------------
+
+Checking 9 new domains
+Skipped 26 previously checked domains
+
+Domain: miso.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: taco.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: wine.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: bbq.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: pan.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: oil.ai
+Status: parked
+Availability: AVAILABLE
+------------------------------
+Domain: egg.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: stew.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
+Domain: bowl.ai
+Status: active
+Availability: NOT AVAILABLE
+------------------------------
